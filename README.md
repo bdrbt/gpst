@@ -1,2 +1,2 @@
-# gpst
+# GPST
 general purpose service template
